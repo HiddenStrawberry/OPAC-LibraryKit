@@ -1,0 +1,1 @@
+This is a Library KIT used in Shenyang University of Technology
